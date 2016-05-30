@@ -14,6 +14,25 @@
 		A0607C8A1CFB53AE00919428 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0607C881CFB53AE00919428 /* LaunchScreen.storyboard */; };
 		A0607C951CFB53AE00919428 /* OtroReproductorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0607C941CFB53AE00919428 /* OtroReproductorTests.swift */; };
 		A0607CA01CFB53AF00919428 /* OtroReproductorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0607C9F1CFB53AF00919428 /* OtroReproductorUITests.swift */; };
+		A0607CC71CFB53D200919428 /* portada_the_cure.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A0607CB51CFB53D200919428 /* portada_the_cure.jpg */; };
+		A0607CC81CFB53D200919428 /* portada_pixies.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A0607CB61CFB53D200919428 /* portada_pixies.jpg */; };
+		A0607CC91CFB53D200919428 /* portada_rhcp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A0607CB71CFB53D200919428 /* portada_rhcp.jpg */; };
+		A0607CCA1CFB53D200919428 /* portada_neil_young.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A0607CB81CFB53D200919428 /* portada_neil_young.jpg */; };
+		A0607CCB1CFB53D200919428 /* portada_the_kills.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A0607CB91CFB53D200919428 /* portada_the_kills.jpg */; };
+		A0607CCC1CFB53D200919428 /* The_Kills_Black_Balloon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A0607CBA1CFB53D200919428 /* The_Kills_Black_Balloon.mp3 */; };
+		A0607CCD1CFB53D200919428 /* the_cure_lovesong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A0607CBB1CFB53D200919428 /* the_cure_lovesong.mp3 */; };
+		A0607CCE1CFB53D200919428 /* Red_Hot_Chili_Peppers_Venice_Queen_Live_at_Slane_Castle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A0607CBC1CFB53D200919428 /* Red_Hot_Chili_Peppers_Venice_Queen_Live_at_Slane_Castle.mp3 */; };
+		A0607CCF1CFB53D200919428 /* pixies_where_is_my_mind.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A0607CBD1CFB53D200919428 /* pixies_where_is_my_mind.mp3 */; };
+		A0607CD01CFB53D200919428 /* Neil Young_Mansion_On_The_Hill.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A0607CBE1CFB53D200919428 /* Neil Young_Mansion_On_The_Hill.mp3 */; };
+		A0745E851CFB7C7F0021BA78 /* stop.png in Resources */ = {isa = PBXBuildFile; fileRef = A0745E841CFB7C7F0021BA78 /* stop.png */; };
+		A0745E8E1CFB7EEF0021BA78 /* bola1.png in Resources */ = {isa = PBXBuildFile; fileRef = A0745E861CFB7EEF0021BA78 /* bola1.png */; };
+		A0745E8F1CFB7EEF0021BA78 /* bola2.png in Resources */ = {isa = PBXBuildFile; fileRef = A0745E871CFB7EEF0021BA78 /* bola2.png */; };
+		A0745E901CFB7EEF0021BA78 /* bola3.png in Resources */ = {isa = PBXBuildFile; fileRef = A0745E881CFB7EEF0021BA78 /* bola3.png */; };
+		A0745E911CFB7EEF0021BA78 /* bola4.png in Resources */ = {isa = PBXBuildFile; fileRef = A0745E891CFB7EEF0021BA78 /* bola4.png */; };
+		A0745E921CFB7EEF0021BA78 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = A0745E8A1CFB7EEF0021BA78 /* pause.png */; };
+		A0745E931CFB7EEF0021BA78 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = A0745E8B1CFB7EEF0021BA78 /* play.png */; };
+		A0745E941CFB7EEF0021BA78 /* random.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A0745E8C1CFB7EEF0021BA78 /* random.jpg */; };
+		A0745E951CFB7EEF0021BA78 /* random.png in Resources */ = {isa = PBXBuildFile; fileRef = A0745E8D1CFB7EEF0021BA78 /* random.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +66,25 @@
 		A0607C9B1CFB53AF00919428 /* OtroReproductorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OtroReproductorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0607C9F1CFB53AF00919428 /* OtroReproductorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtroReproductorUITests.swift; sourceTree = "<group>"; };
 		A0607CA11CFB53AF00919428 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0607CB51CFB53D200919428 /* portada_the_cure.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = portada_the_cure.jpg; sourceTree = "<group>"; };
+		A0607CB61CFB53D200919428 /* portada_pixies.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = portada_pixies.jpg; sourceTree = "<group>"; };
+		A0607CB71CFB53D200919428 /* portada_rhcp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = portada_rhcp.jpg; sourceTree = "<group>"; };
+		A0607CB81CFB53D200919428 /* portada_neil_young.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = portada_neil_young.jpg; sourceTree = "<group>"; };
+		A0607CB91CFB53D200919428 /* portada_the_kills.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = portada_the_kills.jpg; sourceTree = "<group>"; };
+		A0607CBA1CFB53D200919428 /* The_Kills_Black_Balloon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = The_Kills_Black_Balloon.mp3; sourceTree = "<group>"; };
+		A0607CBB1CFB53D200919428 /* the_cure_lovesong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = the_cure_lovesong.mp3; sourceTree = "<group>"; };
+		A0607CBC1CFB53D200919428 /* Red_Hot_Chili_Peppers_Venice_Queen_Live_at_Slane_Castle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Red_Hot_Chili_Peppers_Venice_Queen_Live_at_Slane_Castle.mp3; sourceTree = "<group>"; };
+		A0607CBD1CFB53D200919428 /* pixies_where_is_my_mind.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pixies_where_is_my_mind.mp3; sourceTree = "<group>"; };
+		A0607CBE1CFB53D200919428 /* Neil Young_Mansion_On_The_Hill.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Neil Young_Mansion_On_The_Hill.mp3"; sourceTree = "<group>"; };
+		A0745E841CFB7C7F0021BA78 /* stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stop.png; sourceTree = "<group>"; };
+		A0745E861CFB7EEF0021BA78 /* bola1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bola1.png; sourceTree = "<group>"; };
+		A0745E871CFB7EEF0021BA78 /* bola2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bola2.png; sourceTree = "<group>"; };
+		A0745E881CFB7EEF0021BA78 /* bola3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bola3.png; sourceTree = "<group>"; };
+		A0745E891CFB7EEF0021BA78 /* bola4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bola4.png; sourceTree = "<group>"; };
+		A0745E8A1CFB7EEF0021BA78 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		A0745E8B1CFB7EEF0021BA78 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		A0745E8C1CFB7EEF0021BA78 /* random.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = random.jpg; sourceTree = "<group>"; };
+		A0745E8D1CFB7EEF0021BA78 /* random.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = random.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +135,25 @@
 		A0607C7E1CFB53AD00919428 /* OtroReproductor */ = {
 			isa = PBXGroup;
 			children = (
+				A0745E841CFB7C7F0021BA78 /* stop.png */,
+				A0745E861CFB7EEF0021BA78 /* bola1.png */,
+				A0745E871CFB7EEF0021BA78 /* bola2.png */,
+				A0745E881CFB7EEF0021BA78 /* bola3.png */,
+				A0745E891CFB7EEF0021BA78 /* bola4.png */,
+				A0745E8A1CFB7EEF0021BA78 /* pause.png */,
+				A0745E8B1CFB7EEF0021BA78 /* play.png */,
+				A0745E8C1CFB7EEF0021BA78 /* random.jpg */,
+				A0745E8D1CFB7EEF0021BA78 /* random.png */,
+				A0607CB51CFB53D200919428 /* portada_the_cure.jpg */,
+				A0607CB61CFB53D200919428 /* portada_pixies.jpg */,
+				A0607CB71CFB53D200919428 /* portada_rhcp.jpg */,
+				A0607CB81CFB53D200919428 /* portada_neil_young.jpg */,
+				A0607CB91CFB53D200919428 /* portada_the_kills.jpg */,
+				A0607CBA1CFB53D200919428 /* The_Kills_Black_Balloon.mp3 */,
+				A0607CBB1CFB53D200919428 /* the_cure_lovesong.mp3 */,
+				A0607CBC1CFB53D200919428 /* Red_Hot_Chili_Peppers_Venice_Queen_Live_at_Slane_Castle.mp3 */,
+				A0607CBD1CFB53D200919428 /* pixies_where_is_my_mind.mp3 */,
+				A0607CBE1CFB53D200919428 /* Neil Young_Mansion_On_The_Hill.mp3 */,
 				A0607C7F1CFB53AE00919428 /* AppDelegate.swift */,
 				A0607C811CFB53AE00919428 /* ViewController.swift */,
 				A0607C831CFB53AE00919428 /* Main.storyboard */,
@@ -232,9 +289,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0607CCE1CFB53D200919428 /* Red_Hot_Chili_Peppers_Venice_Queen_Live_at_Slane_Castle.mp3 in Resources */,
+				A0745E931CFB7EEF0021BA78 /* play.png in Resources */,
+				A0607CCA1CFB53D200919428 /* portada_neil_young.jpg in Resources */,
+				A0745E911CFB7EEF0021BA78 /* bola4.png in Resources */,
+				A0607CCD1CFB53D200919428 /* the_cure_lovesong.mp3 in Resources */,
 				A0607C8A1CFB53AE00919428 /* LaunchScreen.storyboard in Resources */,
+				A0607CD01CFB53D200919428 /* Neil Young_Mansion_On_The_Hill.mp3 in Resources */,
+				A0745E901CFB7EEF0021BA78 /* bola3.png in Resources */,
+				A0745E8E1CFB7EEF0021BA78 /* bola1.png in Resources */,
 				A0607C871CFB53AE00919428 /* Assets.xcassets in Resources */,
+				A0745E941CFB7EEF0021BA78 /* random.jpg in Resources */,
+				A0607CC91CFB53D200919428 /* portada_rhcp.jpg in Resources */,
+				A0607CCC1CFB53D200919428 /* The_Kills_Black_Balloon.mp3 in Resources */,
+				A0607CC71CFB53D200919428 /* portada_the_cure.jpg in Resources */,
 				A0607C851CFB53AE00919428 /* Main.storyboard in Resources */,
+				A0745E921CFB7EEF0021BA78 /* pause.png in Resources */,
+				A0607CCF1CFB53D200919428 /* pixies_where_is_my_mind.mp3 in Resources */,
+				A0745E8F1CFB7EEF0021BA78 /* bola2.png in Resources */,
+				A0607CCB1CFB53D200919428 /* portada_the_kills.jpg in Resources */,
+				A0745E851CFB7C7F0021BA78 /* stop.png in Resources */,
+				A0745E951CFB7EEF0021BA78 /* random.png in Resources */,
+				A0607CC81CFB53D200919428 /* portada_pixies.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -487,6 +563,7 @@
 				A0607CA61CFB53AF00919428 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A0607CA71CFB53AF00919428 /* Build configuration list for PBXNativeTarget "OtroReproductorTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +572,7 @@
 				A0607CA91CFB53AF00919428 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A0607CAA1CFB53AF00919428 /* Build configuration list for PBXNativeTarget "OtroReproductorUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +581,7 @@
 				A0607CAC1CFB53AF00919428 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
